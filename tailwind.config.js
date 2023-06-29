@@ -4,9 +4,11 @@ module.exports = {
     fontFamily: {
       primary: 'Playfair Display',
       secondary: 'Mulish',
+      partial: 'Delius',
+      tertiary: 'Delius',
     },
     screens: {
-      sm: '640px',
+      sm: '480px',
       md: '768px',
       lg: '1024px',
       xl: '1192px',

@@ -9,15 +9,17 @@ const Header = () => {
   return (
     <header className=' fixed w-full px-[20px]
     lg:px-[100px] z-30 h-[70px] lg:h-[90px] flex
-     items-center text-white'>
+     items-center '>
      <div className='flex flex-col lg:flex-row lg:items-center
      w-full justify-between'>
      
      {/* logo */}
-     <p className='max-w-[300px] pl-6 pt-4 text-3xl'>SOUL STUDIO</p>
+     <p className='max-w-[300px]  pt-2 text-3xl
+      text-lime-600 font-secondary
+     font-bold'>SOUL STUDIO</p>
 
      {/*nav initially hidden - show on desktop mode */}
-     <nav className='hidden lg:flex gap-x-12 font-semibold text-white'>
+     <nav className='hidden lg:flex gap-x-12 font-semibold text-orange-700'>
 
      <Link to={'/'} className=' hover:text-primary
      transition'>Home</Link>  
@@ -36,8 +38,8 @@ const Header = () => {
 
      </div>
 
-       {/*socials */}
-       <Socials />
+      {/*socials */}
+      <Socials />
 
 
      {/*mobile nav */}
