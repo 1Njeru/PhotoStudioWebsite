@@ -1,5 +1,5 @@
 import React from 'react'
-import beauty from '../img/home/beauty.jpg'
+
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { transition1 } from '../transitions'
