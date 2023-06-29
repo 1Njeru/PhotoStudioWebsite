@@ -3,7 +3,7 @@ import React from 'react'
 
 import baby from '../img/portfolio/baby.JPG'
 import familyphoto from '../img/portfolio/familyphoto.jpg'
-import outdoor from '../img/portfolio/outdoor.JPG'
+
 import tradi from '../img/portfolio/tradi.jpg'
 
 import { Link } from 'react-router-dom'
