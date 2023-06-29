@@ -40,42 +40,42 @@ const Home = () => {
     
     <ul className='flex gap-5' >
 
-    <li className='hover:scale-95'><a href='http://www.facebook.com' target='_blank'>
+    <li className='hover:scale-95'><a href='http://www.facebook.com' target='_blank' rel="noreferre>
     <ImFacebook />
     </a>
     </li>
 
-    <li className='hover:scale-105'><a href='http://www.twitter.com' target='_blank'>
+    <li className='hover:scale-105'><a href='http://www.twitter.com' target='_blank' rel="noreferre>
     <ImTwitter />
     </a>
     </li>
 
-    <li className='hover:scale-95'><a href='http://www.instagram.com' target='_blank'>
+    <li className='hover:scale-95'><a href='http://www.instagram.com' target='_blank' rel="noreferre>
     <ImInstagram />
     </a>
     </li>
 
-    <li className='hover:scale-105'><a href='http://www.whatsapp.com' target='_blank'>
+    <li className='hover:scale-105'><a href='http://www.whatsapp.com' target='_blank' rel="noreferre>
     <ImWhatsapp />
     </a>
     </li>
 
-    <li className='hover:scale-95'><a href='mailto:http://www.nyagaedward23.gmail.com' target='_blank'>
+    <li className='hover:scale-95'><a href='mailto:http://www.nyagaedward23.gmail.com' target='_blank' rel="noreferre>
     <ImMail />
     </a>
     </li>
 
-    <li className='hover:scale-105'><a href='tel:0722175068' target='_blank'>
+    <li className='hover:scale-105'><a href='tel:0722175068' target='_blank' rel="noreferre>
     <ImPhone />
     </a>
     </li>
 
-    <li className='hover:scale-95'><a href='http://www.instagram.com' target='_blank'>
+    <li className='hover:scale-95'><a href='http://www.instagram.com' target='_blank' rel="noreferre>
     <ImCamera />
     </a>
     </li>
 
-    <li className='hover:scale-105'><a href='http://www.googlemaps.com' target='_blank'>
+    <li className='hover:scale-105'><a href='http://www.googlemaps.com' target='_blank' rel="noreferre>
     <ImLocation />
     </a>
     </li>
