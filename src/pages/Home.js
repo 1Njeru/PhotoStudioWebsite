@@ -5,15 +5,15 @@ import { Link } from 'react-router-dom'
 //import icons
 
 import {
-  ImFacebook,
-  ImTwitter,
-  ImInstagram,
+  
+
+
   ImWhatsapp,
-  ImMail,
+ 
   ImPhone,
-  ImCamera,
+
   ImLocation,
-  ImArrowRight,
+  
   
 } from 'react-icons/im'
 
