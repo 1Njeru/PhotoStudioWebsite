@@ -1,15 +1,4 @@
 import React from 'react'
-import soul from '../img/about/soul.jpg'
-
-import {
- FaCamera,
- FaTree
-} from 'react-icons/fa'
-
-import{
-  ImFilePicture,
-  ImHome,
-} from 'react-icons/im'
 
 
 //import link
