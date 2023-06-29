@@ -1,5 +1,5 @@
 import React from 'react'
-import contac from '../img/contact/contac.jpg'
+
 import { Link } from 'react-router-dom'
 import { ImHome } from 'react-icons/im'
 
