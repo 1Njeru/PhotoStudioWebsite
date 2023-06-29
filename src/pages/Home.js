@@ -6,13 +6,15 @@ import { Link } from 'react-router-dom'
 
 import {
   
-
-
+ImFacebook,
+ImTwitter,
   ImWhatsapp,
- 
+ ImInstagram,
   ImPhone,
-
+  ImhatsApp,
   ImLocation,
+  ImMail,
+  ImCamera,
   
   
 } from 'react-icons/im'
